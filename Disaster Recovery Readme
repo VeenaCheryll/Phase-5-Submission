@@ -1,0 +1,22 @@
+Problem Statement: 
+        Dive into the world of disaster recovery with IBM cloud virtual server .Disaster recovery, which also includes cloud-based DR, is part of a broader BC umbrella. It typically plays a central role in many avenues of BC planning, such as for floods, earthquakes and cyber attacks.
+Design Thinking:
+        Design thinking is a human-centred approach to problemsolving and project design that focuses on understanding user needs, ideating creative solutions, and iteratively refining those solutions
+Disaster recovery: 
+        Disaster recovery (CDR) is simple to configure and maintain, as opposed to conventional alternatives.
+Document Disaster Recovery Activities:
+        Disaster recovery requires documentation. Keep a playbook that defines the disaster recovery activities that need to occur each day, week, month, and year
+Disaster Recovery Strategy:
+        cloud disaster recovery, often called cloud DR, is acomprehensive approach encompassing strategies and services forsafeguarding data, applications, and assets by replicating them to publiccloud environments or dedicated service providers. 
+A Cloud Disaster Recovery service offersorganizationsseveral benefits,
+including:• Saves Time/Capital• More Data Backup Location Options• Easy to Implement with High Reliability• Scalability
+Configuration replication: 
+        Avoid split-brain situation Keep in mind that only one cluster behaves as a primary. 
+Disaster recovery testing• Last updated 2023-07-31Disaster recovery (DR) testing is what you must do to keep your ability to be resilient, hoping not to need to do it for
+/storage/emulated/0/Android/data/com.yozo.vivo.office/cache/.tmp/Yozo_Office/clip/tmp3871656011456637453.png
+        Disaster recovery simulation DR simulation is a way to verify or audit the emergency runbooks and check the recovery time objectives  (RTO) and recovery point objectives(RPO) provided by the solution by simulating as much as possible in the same conditions as a real emergency.
+        Switch-overOpposite to the DR simulation, in the switch-over test, production is moved from primary site to DR site to verify and audit the ability to run and sustain production operations for a long period.
+        Understand Your Backup Needs:The first step to creating an effective disaster recovery system is to understand:• What information needs to be backed up• Why that information needs to be backed up• How that information will be backed up
+        Pick Disaster Recovery Solutions that Support What You’ve Determined Thus Far:Pick a disaster recovery solution that is both proactive to potential events and progressive when dealing with emerging technology, such as the growing movement of the cloud.
+Problem Definition:
+         Building a cloud DRD plan is virtually identical to more traditional local or off-site
